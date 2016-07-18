@@ -5,7 +5,7 @@
 
 Recursively invoke forceUpdate() on a tree of components.
 
-#### [JSFiddle Example](https://jsfiddle.net/developit/642ctu04/)
+#### [JSFiddle Example](https://jsfiddle.net/developit/ffr9608m/)
 
 
 ---
