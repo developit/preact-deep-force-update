@@ -1,5 +1,7 @@
 # preact-deep-force-update
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/preact-deep-force-update.svg)](https://greenkeeper.io/)
+
 [![NPM](http://img.shields.io/npm/v/preact-deep-force-update.svg)](https://www.npmjs.com/package/preact-deep-force-update)
 [![travis-ci](https://travis-ci.org/developit/preact-deep-force-update.svg)](https://travis-ci.org/developit/preact-deep-force-update)
 
